@@ -77,7 +77,7 @@ traditional E-commerce models.)
   <a href="https://www.linkedin.com/in/vishnugauda/">
     <img src="https://img.shields.io/badge/LinkedIn-Vishnu%20Gauda-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:vishnugauda@gmail.com">
+  <a href="mailto:vishnugauda51@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-vishnugauda@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
