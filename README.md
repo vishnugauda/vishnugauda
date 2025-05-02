@@ -97,7 +97,7 @@ traditional E-commerce models.)
 
 - 🧠 [Google Project Management Professional Certificate](https://www.credly.com/org/google-cloud/badge/project-management)  
 - 📊 [Google Data Analytics Professional Certificate (In Progress)](https://www.coursera.org/professional-certificates/google-data-analytics)  
-- 🐍 Python for Data Analytics (In Progress)
+-  Python for Data Analytics (In Progress)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnugauda&show_icons=true&theme=radical" />
