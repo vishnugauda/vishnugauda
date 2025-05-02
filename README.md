@@ -19,6 +19,14 @@
 🐍 Currently learning **Python** for deeper data analysis and automation  
 🚀 Goal: To land a role in **Data Analyst** with a strong focus on **Data driven business strategies**
 
+I am a **data-driven professional** with expertise in **business analysis , market research ,
+and strategic decision-making** . Skilled in leveraging **analytical insights** to drive
+innovative marketing strategies and customer-centric solutions . Experienced in
+**project management , team collaboration **, and **product development** , with a
+proven track record in delivering results. Highlights include success in the **Campus
+Ambassador Program** for Odo-Rite, a **Top-5 finish in the Biocon Biologics Hackathon**
+, and leadership in **cultural initiatives** that boosted engagement at PES University.
+
 ---
 
 ### 💼 Experience
